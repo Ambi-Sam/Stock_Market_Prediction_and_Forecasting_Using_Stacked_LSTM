@@ -22,7 +22,6 @@ The project is organized as follows:
 ## Installation and Setup
 
 To run this project, follow the steps below:
-
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required dependencies using the command: `pip install -r requirements.txt`.
