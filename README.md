@@ -34,9 +34,4 @@ To run this project, follow the steps below:
 
 The results of the stock market prediction and forecasting using the stacked LSTM model will be displayed and saved during the execution of the `Stock_Market_Prediction_And_Forecasting.ipynb` script. This may include visualizations of the predicted prices, evaluation metrics, and other relevant information.
 
-## Acknowledgments
-
-This project is completed as part of the LGMVIP Data Science Internship. Thanks to LetsGrowMore for providing this learning opportunity and guidance throughout the internship.
-
-If you have any questions or suggestions, feel free to reach out. Happy coding!
 
